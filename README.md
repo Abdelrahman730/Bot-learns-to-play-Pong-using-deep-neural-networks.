@@ -8,13 +8,11 @@ Two AI agents that learn to play games and drive cars using deep reinforcement l
 AI agent that masters the classic Pong game using two different algorithms for comparison.
 
 ![Pong Bot Demo](./screenshots/pong_demo.gif)
-![Pong Bot Demo](./screenshots/pong_demo.gif)
 *Pong Bot Demo*
 
 ### 2. Self-Driving Car (PPO)
 AI agent that learns to navigate and drive autonomously using Proximal Policy Optimization.
 
-![Self-Driving Car Demo](./screenshots/car_demo.gif)
 ![Self-Driving Car Demo](./screenshots/car_demo.gif)
 *Self-Driving Car Demo*
 
@@ -79,7 +77,6 @@ AI agent that learns to navigate and drive autonomously using Proximal Policy Op
 - **Training Time**: ~5 hours on CPU
 
 ![Pong Training Progress](./screenshots/pong_training_graph.png)
-![Pong Training Progress](./screenshots/pong_training_graph.png)
 *DQN vs A2C Training Progress*
 
 ### Self-Driving Car Performance
@@ -90,7 +87,6 @@ AI agent that learns to navigate and drive autonomously using Proximal Policy Op
 - **Collision Rate**: <5% after training
 - **Training Time**: ~8 hours on CPU
 
-![Car Training Progress](./screenshots/car_training_graph.png)
 ![Car Training Progress](./screenshots/car_training_graph.png)
 *Self-driving car PPO Training Progress*
 
